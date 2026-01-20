@@ -1,2 +1,14 @@
 # Pic2Find
-A Photo-Based Digital Lost &amp; Found System
+
+Pic2Find is a digital lost and found system.
+
+## Features
+- Report lost items
+- View lost items
+- Simple pastel design
+
+## Technologies
+- HTML
+- CSS
+- PHP
+
